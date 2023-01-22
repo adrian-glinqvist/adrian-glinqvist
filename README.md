@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> 
 </a>
 
-<a href="https://stackshare.io/adrianglinqvist">
+<a href="https://stackshare.io/adrianglinqvist/my-stack">
   <img src="https://img.shields.io/badge/StackShare-0690FA.svg?style=for-the-badge&logo=StackShare&logoColor=white" alt="StackShare Badge"/> 
 </a>
 
