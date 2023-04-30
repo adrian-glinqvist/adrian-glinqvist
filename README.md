@@ -3,10 +3,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- 🌱 I’m currently finishing the AI Bussiness Consultant program @ Hyper Island in Stockholm, Sweden
+- 🌱 I’m just graduated from the AI Bussiness Consultant program @ Hyper Island in Stockholm, Sweden.
 - 👀 I’m interested in AI, analytics and data.
-- 💞️ I’m looking for internship in Stockholm, Sweden, from januari 2023
-- Open to collaborate on AI projects 
+- 🔥 **Passionate about business development with AI and how data and AI can improve bussinesses as well as create new opportunities for business model innovation**
+- 💞️ I’m looking for position as business/data analyst /engineer in Stockholm, Sweden.
+
+-> Open to collaborate on AI projects 
 
 ### 📫 How to reach me ⮕
 
