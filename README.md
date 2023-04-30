@@ -8,7 +8,7 @@
 - 🔥 **Passionate about business development with AI and how data and AI can improve bussinesses as well as create new opportunities for business model innovation**
 - 💞️ I’m looking for position as business/data analyst /engineer in Stockholm, Sweden.
 
--> Open to collaborate on AI projects 
+- Open to collaborate on AI projects 
 
 ### 📫 How to reach me ⮕
 
