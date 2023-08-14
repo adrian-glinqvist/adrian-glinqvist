@@ -1,6 +1,6 @@
 <h1>
   Hi, I’m Adrian Glinqvist
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
 </h1>
 
 - 🌱 I’m just graduated from the AI Bussiness Consultant program @ Hyper Island in Stockholm, Sweden.
