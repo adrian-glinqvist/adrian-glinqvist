@@ -3,8 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- 🌱 I’m just graduated from the AI Bussiness Consultant program @ Hyper Island in Stockholm, Sweden.
-- 👀 I’m interested in AI, analytics and data.
+- 🌱 I graduated from the AI Bussiness Consultant program @ Hyper Island in Stockholm, Sweden. 
+- 👀 I’m interested in AI, analytics and data and i've worked as a business analyst previously. 
 - 🔥 **Passionate about business development with AI and how data and AI can improve businesses as well as create new opportunities for business model innovation**
 - 💞️ I’m looking for position as business/data analyst /engineer in Stockholm, Sweden. 
 
